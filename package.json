@@ -1,0 +1,9 @@
+{
+  "name": "remove-undefined",
+  "version": "0.1.0",
+  "description": "Remove properties with the value `undefined`.",
+  "repository": "https://github.com/gawhelan/remove-undefined",
+  "main": "index.js",
+  "author": "Graham Whelan <gawhelan@gmail.com>",
+  "license": "MIT"
+}
